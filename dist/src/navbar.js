@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Navbar extends Component {
   render() {
     return (
-      <p>OMDB DEMO</p>
+      <p>In-Class Hackthon</p>
     );
   }
 }
